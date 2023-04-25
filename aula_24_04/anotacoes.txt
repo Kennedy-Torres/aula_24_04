@@ -1,0 +1,15 @@
+/* ao invés de varrer todo o vetor ele ira percorrer apenas a qtd necessária
+ strlen(variavel)        .... sempre retorna um valor inteiro , apenas a qtd necessária ( = com a dimensão)
+*/
+
+
+//strcpy(variavel_01, "novo_dado_a_ser_informado")   ........... substitui o conteudo da primeira pelo conteudo da segunda
+
+//strcat(variavel_01,"novo_dado_a_ser_informado") ........... concatena(=juntar) o segundo no primeiro
+
+//strstr(variavel,"novo_dado_a_ser_informado") ................retorna a posicao onde tem inicio a string procurada
+
+
+/*Uso da biblioteca #include <ctype.h>*/
+//toupper() função q deixa a letra maiuscula
+//tolower() ....."... deixa a letra minuscula
